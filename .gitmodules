@@ -1,3 +1,6 @@
 [submodule "eval"]
 	path = eval
 	url = https://github.com/arthurmlima/cpf-evalWorkspace
+[submodule "proj"]
+	path = proj
+	url = https://github.com/arthurmlima/Cfp-HLS
